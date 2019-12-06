@@ -8,7 +8,7 @@ More about the functionality of wkhtmltopdf and wkthmltoimage can be found there
 
 _Hint_:
 The version of the binary is equal to the git tag.
-To install the latest version, use '0.12.4'.
+To install the latest version, use '0.12.5'.
 
 ### Packagist
 
